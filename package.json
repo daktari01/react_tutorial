@@ -4,7 +4,7 @@
   "description": "![](http://i.imgur.com/5Bqs5zi.png)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "webpack": "webpack"
   },
   "author": "daktari01",
   "license": "ISC",
